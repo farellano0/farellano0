@@ -12,7 +12,6 @@ I'm currently studying Software Engineering at the University of Colima, which I
 - 🤔 I’m looking for experience in IT area.
 - 😄 Pronouns: He/Him
 
----
 ## Languages and Tools that I have used:
 [![HTML5](https://img.shields.io/badge/HTML5-FF7400?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
@@ -24,7 +23,6 @@ I'm currently studying Software Engineering at the University of Colima, which I
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap%20V.4-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 
----
 ## Find me in:
 [![GMAIL](https://img.shields.io/badge/Gmail-farellano.0709@gmail.com-ca372d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](farellano.0709@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-Fernando_Arellano-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/farellano07/)

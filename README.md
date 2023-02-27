@@ -28,7 +28,6 @@ I'm currently studying Software Engineering at the University of Colima, which I
 ## Find me in:
 [![GMAIL](https://img.shields.io/badge/Gmail-farellano.0709@gmail.com-ca372d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](farellano.0709@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-Fernando_Arellano-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/farellano07/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
 
 
 

@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="a developer working hard" width="200">
     <h1 align="center">Hi 👋, I'm Fernando</h1>
-    <h3 align="center">I'm a young man of Mexican origin, born in Colima, Mexico. I'm currently studying Software Engineering at the University of Colima, which I demonstrate my interest in the world of technology and my desire to acquire knowledge and skills to work in this field. I'm a committed and dedicated person, who strives to learn and help others whenever I can. I don't yet have a clear path in terms of my career, but I have been exploring the area of Quality Assurance</h3>
+    <h3 align="center">I'm a young man of Mexican origin, born in Colima, Mexico. I'm currently studying Software Engineering at the University of Colima, which I demonstrate my interest in the world of technology and my desire to acquire knowledge and skills to work in this field.</h3>
 </div>
 
 ### Hi there 👋
